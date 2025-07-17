@@ -32,21 +32,6 @@ This is a Streamlit-based application that lets you upload PDF documents, proces
 
 ---
 
-## 🔁 Workflow / How It Works
-
-```mermaid
-graph TD
-    A[Upload PDF Files] --> B[Extract Text using PyPDF2]
-    B --> C[Split Text into Chunks]
-    C --> D[Convert Chunks into Embeddings using Gemini]
-    D --> E[Store Embeddings in FAISS DB]
-    F[User Inputs a Question] --> G[Similarity Search in FAISS]
-    G --> H[Pass Context to Gemini Pro LLM]
-    H --> I[Answer Returned]
-```
-
----
-
 ## 📌 Steps
 
 1.  Upload PDFs via **Streamlit**.
@@ -118,14 +103,15 @@ chat-with-pdf-gemini/
 
 ---
 
-## 📄 License
+## Author
 
-This project is open-source under the **MIT License**.
+Email: tharshit03@gmail.com  
+GitHub: [@tyagi0320](https://github.com/tyagi0320)
+
+----
+
+## License 
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 🤛🏼‍♂️ Author
-
-Built with ❤️ by **Harshit Tyagi**
-
-[LinkedIn](https://www.linkedin.com/in/tyagi-harshit) | [GitHub](https://github.com/harshittyagii)
