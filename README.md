@@ -75,12 +75,6 @@ This is a Streamlit-based application that lets you upload PDF documents, proces
 
 ---
 
-## 📷 Screenshots
-
-*(Add screenshots after running the app locally)*
-
----
-
 ## 💡 Example Prompts
 
 * "What is the objective of this paper?"
