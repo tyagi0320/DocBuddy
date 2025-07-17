@@ -1,0 +1,7 @@
+# Environment variables
+*.env
+
+#Folders
+myenv/
+__pycache__/
+faiss_index/
