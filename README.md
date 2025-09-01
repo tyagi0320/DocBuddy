@@ -105,7 +105,7 @@ chat-with-pdf-gemini/
 ### 2. Wait till processing
 ![Wait till processing](images/Screenshot2.png)
 
-### 3. Tnter prompt
+### 3. Enter prompt
 ![Enter prompt](images/Screenshot3.png)
 
 ### 4. Output Response 1
