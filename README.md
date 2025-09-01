@@ -79,7 +79,7 @@ This is a Streamlit-based application that lets you upload PDF documents, proces
 
 * "What is the objective of this paper?"
 * "Summarize the methodology used in this document."
-* "List the key findings from section 3."
+* "List the key findings from section 3."w
 
 ---
 
@@ -96,6 +96,28 @@ chat-with-pdf-gemini/
 ```
 
 ---
+
+## 📸 Screenshots
+
+### 1. Home Page
+![Upload PDFs](images/Screenshot1.png)
+
+### 2. Upload PDFs
+![Wait till processing](images/Screenshot2.png)
+
+### 3. Text Chunking
+![Enter prompt](images/Screenshot3.png)
+
+### 4. FAISS Vector DB
+![Output Response 1](images/Screenshot4.png)
+
+### 5. Ask Questions
+![Output Response 2](images/Screenshot5.png)
+
+### 6. Answer Output
+![Output Response 3](images/Screenshot6.png)
+
+----
 
 ## Author
 
