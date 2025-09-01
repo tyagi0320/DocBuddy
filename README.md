@@ -99,22 +99,22 @@ chat-with-pdf-gemini/
 
 ## 📸 Screenshots
 
-### 1. Home Page
+### 1. Upload PDFs
 ![Upload PDFs](images/Screenshot1.png)
 
-### 2. Upload PDFs
+### 2. Wait till processing
 ![Wait till processing](images/Screenshot2.png)
 
-### 3. Text Chunking
+### 3. Tnter prompt
 ![Enter prompt](images/Screenshot3.png)
 
-### 4. FAISS Vector DB
+### 4. Output Response 1
 ![Output Response 1](images/Screenshot4.png)
 
-### 5. Ask Questions
+### 5. Output Response 2
 ![Output Response 2](images/Screenshot5.png)
 
-### 6. Answer Output
+### 6. Output Response 3
 ![Output Response 3](images/Screenshot6.png)
 
 ----
